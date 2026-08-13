@@ -1,0 +1,547 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "devcontainer-build-run",
+          "description": "A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-01T11:34:12Z",
+            "owner": "devcontainers",
+            "repo": "ci",
+            "stars": 491
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscli",
+          "description": "A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:43:51Z",
+            "owner": "michidk",
+            "repo": "vscli",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T10:44:22Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unofficial devcontainer CLI",
+          "description": "An experimental CLI to improve the experience of working with Visual Studio Code dev containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-06T17:02:29Z",
+            "owner": "stuartleeks",
+            "repo": "devcontainer-cli",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Devsy",
+          "description": "devsy.sh - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:37:35Z",
+            "owner": "devsy-org",
+            "repo": "devsy",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aicontainer",
+          "description": "A CLI that drops a sandboxed dev container into any project for running AI coding agents (Claude Code, Codex) in auto-approve mode, with filesystem isolation, a filtered Docker socket, and an opt-in outbound firewall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T01:26:23Z",
+            "owner": "stefanoginella",
+            "repo": "aicontainer",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tyedev",
+          "description": "Improve Devcontainer Creation - An interactive experience for the creation of a devcontainer. Provides ability to search for features and templates. And more!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-17T18:37:32Z",
+            "owner": "CodeMan99",
+            "repo": "tyedev",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mirabilis",
+          "description": "One-command launcher that runs Claude Code fully autonomously in an isolated Docker dev container — cross-platform (macOS/Linux/WSL2), with a terminal UI and persistent agent memory.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T15:43:53Z",
+            "owner": "AlexShchuka",
+            "repo": "mirabilis",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "decolint",
+          "description": "A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T13:44:23Z",
+            "owner": "bare-devcontainer",
+            "repo": "decolint",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Samples"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C++ image",
+          "description": "Develop C++ applications on Linux. Includes Debian C++ build tools (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: C++",
+          "description": "C++ sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-16T23:17:22Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-cpp",
+            "stars": 207
+          }
+        }
+      ],
+      "title": "C/C++"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go image",
+          "description": "Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: Go",
+          "description": "Go sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-07-22T20:38:53Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-go",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go Dev Container",
+          "description": "Ultimate Go development container for Visual Studio Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2026-04-21T15:18:54Z",
+            "owner": "qdm12",
+            "repo": "godevcontainer",
+            "stars": 287
+          }
+        }
+      ],
+      "title": "Go"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Java image",
+          "description": "Develop Java applications. Includes the JDK and Java extensions (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: Java",
+          "description": "Java sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-20T07:51:03Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-java",
+            "stars": 426
+          }
+        }
+      ],
+      "title": "Java"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ".NET image",
+          "description": "Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: .NET Core",
+          "description": ".NET Core sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-12T18:09:32Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-dotnet",
+            "stars": 277
+          }
+        }
+      ],
+      "title": ".NET"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Node.js image w/ JavaScript",
+          "description": "Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js image w/ TypeScript",
+          "description": "Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: Node.js",
+          "description": "Node.js sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-30T16:31:29Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-node",
+            "stars": 827
+          }
+        }
+      ],
+      "title": "Node.js"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PHP image",
+          "description": "Develop PHP based applications. Includes needed tools, extensions, and dependencies (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: PHP",
+          "description": "PHP sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-06-24T18:34:54Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-php",
+            "stars": 246
+          }
+        }
+      ],
+      "title": "PHP"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python image",
+          "description": "Develop Python 3 applications (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: Python",
+          "description": "Python sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-08T06:09:40Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-python",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python Project Template",
+          "description": "A Dev Container with support for black, isort, ruff, pre-commit, pytest",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T06:31:24Z",
+            "owner": "pamelafox",
+            "repo": "python-project-template",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQL playground",
+          "description": "Similar to the SQLite playground, but includes local PostgreSQL setup in Dev Container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-21T21:59:53Z",
+            "owner": "pamelafox",
+            "repo": "postgresql-playground",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostgreSQL + pgvector playground",
+          "description": "Dev Container with PostgreSQL, pgvector extension, and multiple pgvector Python examples",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2025-07-21T21:59:19Z",
+            "owner": "pamelafox",
+            "repo": "pgvector-playground",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python 3.11 playground",
+          "description": "A simple 3.11 Dev Container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-10-27T00:20:50Z",
+            "owner": "pamelafox",
+            "repo": "python-3.11-playground",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SQLAlchemy SQLIte Playground",
+          "description": "Dev Container with SQLAlchemy package, SQLTools extension",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-09T07:02:53Z",
+            "owner": "pamelafox",
+            "repo": "sqlalchemy-sqlite-playground",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python 3.10 playground",
+          "description": "A simple 3.10 Dev Container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2022-11-25T15:12:46Z",
+            "owner": "pamelafox",
+            "repo": "python-3.10-playground",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python 3.12 playground",
+          "description": "A simple 3.12 Dev Container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dockerfile",
+            "last_commit": "2024-06-13T14:43:26Z",
+            "owner": "pamelafox",
+            "repo": "python-3.12-playground",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rust image",
+          "description": "Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-11T10:13:26Z",
+            "owner": "devcontainers",
+            "repo": "images",
+            "stars": 2107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Out Development Containers: Rust",
+          "description": "Rust sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-04-12T07:36:35Z",
+            "owner": "microsoft",
+            "repo": "vscode-remote-try-rust",
+            "stars": 334
+          }
+        }
+      ],
+      "title": "Rust"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:10:07.587Z",
+    "original_repository": "manekinekko/awesome-devcontainers",
+    "original_repository_sha": "62b75620c3f81dcfed0982fb9fbb5a5932c29857",
+    "enhanced_repository": "enhansome/enhansome-devcontainers",
+    "enhanced_repository_description": null,
+    "title": "Awesome Dev Containers with stars"
+  }
+}
