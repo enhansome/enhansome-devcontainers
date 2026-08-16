@@ -37,10 +37,10 @@
 ## Tools
 
 * [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 491 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
-* [vscli](https://github.com/michidk/vscli) ⭐ 458 | 🐛 4 | 🌐 Rust | 📅 2026-08-15 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 128 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-15 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+* [vscli](https://github.com/michidk/vscli) ⭐ 458 | 🐛 5 | 🌐 Rust | 📅 2026-08-15 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 128 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-16 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 * [Unofficial devcontainer CLI](https://github.com/stuartleeks/devcontainer-cli) ⭐ 52 | 🐛 13 | 🌐 Go | 📅 2026-02-06 - An experimental CLI to improve the experience of working with Visual Studio Code dev containers.
-* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 50 | 🐛 44 | 🌐 Go | 📅 2026-08-15 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
+* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 50 | 🐛 48 | 🌐 Go | 📅 2026-08-16 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
 * [aicontainer](https://github.com/stefanoginella/aicontainer) ⭐ 18 | 🐛 4 | 🌐 Shell | 📅 2026-08-11 - A CLI that drops a sandboxed dev container into any project for running AI coding agents (Claude Code, Codex) in auto-approve mode, with filesystem isolation, a filtered Docker socket, and an opt-in outbound firewall.
 * [tyedev](https://github.com/CodeMan99/tyedev) ⭐ 15 | 🐛 4 | 🌐 Rust | 📅 2026-05-17 - Improve Devcontainer Creation - An interactive experience for the creation of a devcontainer. Provides ability to search for [features](https://containers.dev/features) and [templates](https://containers.dev/templates). And more!
 * [mirabilis](https://github.com/AlexShchuka/mirabilis) ⭐ 5 | 🐛 3 | 🌐 Go | 📅 2026-08-11 - One-command launcher that runs Claude Code fully autonomously in an isolated Docker dev container — cross-platform (macOS/Linux/WSL2), with a terminal UI and persistent agent memory.
@@ -141,4 +141,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

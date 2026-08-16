@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T10:12:39Z",
+            "last_commit": "2026-08-15T21:44:29Z",
             "owner": "michidk",
             "repo": "vscli",
             "stars": 458
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T12:45:55Z",
+            "last_commit": "2026-08-16T12:47:18Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T13:03:43Z",
+            "last_commit": "2026-08-16T13:02:06Z",
             "owner": "devsy-org",
             "repo": "devsy",
             "stars": 50
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:19:08.445Z",
+    "last_updated": "2026-08-16T13:20:34.410Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_sha": "62b75620c3f81dcfed0982fb9fbb5a5932c29857",
     "enhanced_repository": "enhansome/enhansome-devcontainers",
