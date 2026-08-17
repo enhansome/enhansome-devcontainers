@@ -14,7 +14,7 @@
             "last_commit": "2026-06-01T11:34:12Z",
             "owner": "devcontainers",
             "repo": "ci",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T12:47:18Z",
+            "last_commit": "2026-08-17T09:07:45Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T13:02:06Z",
+            "last_commit": "2026-08-17T12:28:10Z",
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 50
+            "stars": 51
           }
         },
         {
@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-11T01:26:23Z",
+            "last_commit": "2026-08-17T06:10:16Z",
             "owner": "stefanoginella",
             "repo": "aicontainer",
             "stars": 18
@@ -329,7 +329,7 @@
             "last_commit": "2026-07-30T16:31:29Z",
             "owner": "microsoft",
             "repo": "vscode-remote-try-node",
-            "stars": 827
+            "stars": 829
           }
         }
       ],
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:20:34.410Z",
+    "last_updated": "2026-08-17T13:28:22.221Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_sha": "62b75620c3f81dcfed0982fb9fbb5a5932c29857",
     "enhanced_repository": "enhansome/enhansome-devcontainers",

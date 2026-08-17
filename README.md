@@ -36,12 +36,12 @@
 
 ## Tools
 
-* [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 491 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
+* [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 492 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
 * [vscli](https://github.com/michidk/vscli) ⭐ 458 | 🐛 5 | 🌐 Rust | 📅 2026-08-15 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 128 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-16 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 128 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-17 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 * [Unofficial devcontainer CLI](https://github.com/stuartleeks/devcontainer-cli) ⭐ 52 | 🐛 13 | 🌐 Go | 📅 2026-02-06 - An experimental CLI to improve the experience of working with Visual Studio Code dev containers.
-* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 50 | 🐛 48 | 🌐 Go | 📅 2026-08-16 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
-* [aicontainer](https://github.com/stefanoginella/aicontainer) ⭐ 18 | 🐛 4 | 🌐 Shell | 📅 2026-08-11 - A CLI that drops a sandboxed dev container into any project for running AI coding agents (Claude Code, Codex) in auto-approve mode, with filesystem isolation, a filtered Docker socket, and an opt-in outbound firewall.
+* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 51 | 🐛 57 | 🌐 Go | 📅 2026-08-17 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
+* [aicontainer](https://github.com/stefanoginella/aicontainer) ⭐ 18 | 🐛 5 | 🌐 Shell | 📅 2026-08-17 - A CLI that drops a sandboxed dev container into any project for running AI coding agents (Claude Code, Codex) in auto-approve mode, with filesystem isolation, a filtered Docker socket, and an opt-in outbound firewall.
 * [tyedev](https://github.com/CodeMan99/tyedev) ⭐ 15 | 🐛 4 | 🌐 Rust | 📅 2026-05-17 - Improve Devcontainer Creation - An interactive experience for the creation of a devcontainer. Provides ability to search for [features](https://containers.dev/features) and [templates](https://containers.dev/templates). And more!
 * [mirabilis](https://github.com/AlexShchuka/mirabilis) ⭐ 5 | 🐛 3 | 🌐 Go | 📅 2026-08-11 - One-command launcher that runs Claude Code fully autonomously in an isolated Docker dev container — cross-platform (macOS/Linux/WSL2), with a terminal UI and persistent agent memory.
 * [decolint](https://github.com/bare-devcontainer/decolint) ⭐ 1 | 🐛 3 | 🌐 Go | 📅 2026-08-13 - A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.
@@ -105,7 +105,7 @@
 
 * [Node.js image w/ JavaScript](https://github.com/devcontainers/images/tree/main/src/javascript-node) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn (maintained by Microsoft).
 * [Node.js image w/ TypeScript](https://github.com/devcontainers/images/tree/main/src/typescript-node) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler (maintained by Microsoft).
-* [Try Out Development Containers: Node.js](https://github.com/microsoft/vscode-remote-try-node) ⭐ 827 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-30 - Node.js sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
+* [Try Out Development Containers: Node.js](https://github.com/microsoft/vscode-remote-try-node) ⭐ 829 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-30 - Node.js sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### PHP
 
@@ -141,4 +141,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
