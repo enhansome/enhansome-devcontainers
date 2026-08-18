@@ -14,7 +14,7 @@
             "last_commit": "2026-06-01T11:34:12Z",
             "owner": "devcontainers",
             "repo": "ci",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T09:07:45Z",
+            "last_commit": "2026-08-18T13:28:58Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -56,7 +56,7 @@
             "last_commit": "2026-02-06T17:02:29Z",
             "owner": "stuartleeks",
             "repo": "devcontainer-cli",
-            "stars": 52
+            "stars": 53
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T12:28:10Z",
+            "last_commit": "2026-08-18T13:12:11Z",
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 51
+            "stars": 52
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-05-17T18:37:32Z",
             "owner": "CodeMan99",
             "repo": "tyedev",
-            "stars": 15
+            "stars": 16
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T23:59:17Z",
+            "last_commit": "2026-08-17T15:06:11Z",
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1
@@ -151,7 +151,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -233,7 +233,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -301,7 +301,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -349,7 +349,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -383,7 +383,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -515,7 +515,7 @@
             "last_commit": "2026-08-14T08:33:31Z",
             "owner": "devcontainers",
             "repo": "images",
-            "stars": 2109
+            "stars": 2111
           }
         },
         {
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:28:22.221Z",
+    "last_updated": "2026-08-18T13:32:03.403Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_sha": "62b75620c3f81dcfed0982fb9fbb5a5932c29857",
     "enhanced_repository": "enhansome/enhansome-devcontainers",

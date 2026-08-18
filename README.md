@@ -36,15 +36,15 @@
 
 ## Tools
 
-* [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 492 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
+* [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 493 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
 * [vscli](https://github.com/michidk/vscli) ⭐ 458 | 🐛 5 | 🌐 Rust | 📅 2026-08-15 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 128 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-17 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
-* [Unofficial devcontainer CLI](https://github.com/stuartleeks/devcontainer-cli) ⭐ 52 | 🐛 13 | 🌐 Go | 📅 2026-02-06 - An experimental CLI to improve the experience of working with Visual Studio Code dev containers.
-* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 51 | 🐛 57 | 🌐 Go | 📅 2026-08-17 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 128 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-18 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+* [Unofficial devcontainer CLI](https://github.com/stuartleeks/devcontainer-cli) ⭐ 53 | 🐛 13 | 🌐 Go | 📅 2026-02-06 - An experimental CLI to improve the experience of working with Visual Studio Code dev containers.
+* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 52 | 🐛 22 | 🌐 Go | 📅 2026-08-18 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
 * [aicontainer](https://github.com/stefanoginella/aicontainer) ⭐ 18 | 🐛 5 | 🌐 Shell | 📅 2026-08-17 - A CLI that drops a sandboxed dev container into any project for running AI coding agents (Claude Code, Codex) in auto-approve mode, with filesystem isolation, a filtered Docker socket, and an opt-in outbound firewall.
-* [tyedev](https://github.com/CodeMan99/tyedev) ⭐ 15 | 🐛 4 | 🌐 Rust | 📅 2026-05-17 - Improve Devcontainer Creation - An interactive experience for the creation of a devcontainer. Provides ability to search for [features](https://containers.dev/features) and [templates](https://containers.dev/templates). And more!
+* [tyedev](https://github.com/CodeMan99/tyedev) ⭐ 16 | 🐛 4 | 🌐 Rust | 📅 2026-05-17 - Improve Devcontainer Creation - An interactive experience for the creation of a devcontainer. Provides ability to search for [features](https://containers.dev/features) and [templates](https://containers.dev/templates). And more!
 * [mirabilis](https://github.com/AlexShchuka/mirabilis) ⭐ 5 | 🐛 3 | 🌐 Go | 📅 2026-08-11 - One-command launcher that runs Claude Code fully autonomously in an isolated Docker dev container — cross-platform (macOS/Linux/WSL2), with a terminal UI and persistent agent memory.
-* [decolint](https://github.com/bare-devcontainer/decolint) ⭐ 1 | 🐛 3 | 🌐 Go | 📅 2026-08-13 - A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.
+* [decolint](https://github.com/bare-devcontainer/decolint) ⭐ 1 | 🐛 3 | 🌐 Go | 📅 2026-08-17 - A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.
 * [VS Code Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
 * [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
 * [crib](https://fgrehm.github.io/crib) - A lean devcontainer runner that shells out to Docker/Podman. Single binary, no SSH, just `docker exec`, with experimental support for plugins.
@@ -82,39 +82,39 @@
 
 ### C/C++
 
-* [C++ image](https://github.com/devcontainers/images/tree/main/src/cpp) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop C++ applications on Linux. Includes Debian C++ build tools (maintained by Microsoft).
+* [C++ image](https://github.com/devcontainers/images/tree/main/src/cpp) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop C++ applications on Linux. Includes Debian C++ build tools (maintained by Microsoft).
 * [Try Out Development Containers: C++](https://github.com/microsoft/vscode-remote-try-cpp) ⭐ 207 | 🐛 15 | 🌐 Shell | 📅 2024-07-16 - C++ sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Go
 
-* [Go image](https://github.com/devcontainers/images/tree/main/src/go) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies (maintained by Microsoft).
+* [Go image](https://github.com/devcontainers/images/tree/main/src/go) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies (maintained by Microsoft).
 * [Try Out Development Containers: Go](https://github.com/microsoft/vscode-remote-try-go) ⭐ 344 | 🐛 11 | 🌐 Go | 📅 2024-07-22 - Go sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 * [Go Dev Container](https://github.com/qdm12/godevcontainer) ⭐ 287 | 🐛 7 | 🌐 Dockerfile | 📅 2026-04-21 - Ultimate Go development container for Visual Studio Code.
 
 ### Java
 
-* [Java image](https://github.com/devcontainers/images/tree/main/src/java) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Java applications. Includes the JDK and Java extensions (maintained by Microsoft).
+* [Java image](https://github.com/devcontainers/images/tree/main/src/java) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop Java applications. Includes the JDK and Java extensions (maintained by Microsoft).
 * [Try Out Development Containers: Java](https://github.com/microsoft/vscode-remote-try-java) ⭐ 426 | 🐛 22 | 🌐 Java | 📅 2024-08-20 - Java sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### .NET
 
-* [.NET image](https://github.com/devcontainers/images/tree/main/src/dotnet) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies (maintained by Microsoft).
+* [.NET image](https://github.com/devcontainers/images/tree/main/src/dotnet) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies (maintained by Microsoft).
 * [Try Out Development Containers: .NET Core](https://github.com/microsoft/vscode-remote-try-dotnetcore) ⭐ 277 | 🐛 10 | 🌐 C# | 📅 2024-06-12 - .NET Core sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Node.js
 
-* [Node.js image w/ JavaScript](https://github.com/devcontainers/images/tree/main/src/javascript-node) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn (maintained by Microsoft).
-* [Node.js image w/ TypeScript](https://github.com/devcontainers/images/tree/main/src/typescript-node) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler (maintained by Microsoft).
+* [Node.js image w/ JavaScript](https://github.com/devcontainers/images/tree/main/src/javascript-node) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn (maintained by Microsoft).
+* [Node.js image w/ TypeScript](https://github.com/devcontainers/images/tree/main/src/typescript-node) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler (maintained by Microsoft).
 * [Try Out Development Containers: Node.js](https://github.com/microsoft/vscode-remote-try-node) ⭐ 829 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-30 - Node.js sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### PHP
 
-* [PHP image](https://github.com/devcontainers/images/tree/main/src/php) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop PHP based applications. Includes needed tools, extensions, and dependencies (maintained by Microsoft).
+* [PHP image](https://github.com/devcontainers/images/tree/main/src/php) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop PHP based applications. Includes needed tools, extensions, and dependencies (maintained by Microsoft).
 * [Try Out Development Containers: PHP](https://github.com/microsoft/vscode-remote-try-php) ⭐ 246 | 🐛 17 | 🌐 PHP | 📅 2024-06-24 - PHP sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Python
 
-* [Python image](https://github.com/devcontainers/images/tree/main/src/python) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Python 3 applications (maintained by Microsoft).
+* [Python image](https://github.com/devcontainers/images/tree/main/src/python) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop Python 3 applications (maintained by Microsoft).
 * [Try Out Development Containers: Python](https://github.com/microsoft/vscode-remote-try-python) ⭐ 934 | 🐛 83 | 🌐 Python | 📅 2024-08-08 - Python sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 * [Python Project Template](https://github.com/pamelafox/python-project-template) ⭐ 150 | 🐛 3 | 🌐 Python | 📅 2026-07-24: A Dev Container with support for black, isort, ruff, pre-commit, pytest
 * [PostgreSQL playground](https://github.com/pamelafox/postgresql-playground) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2025-07-21: Similar to the SQLite playground, but includes local PostgreSQL setup in Dev Container
@@ -126,11 +126,11 @@
 
 ### Ruby
 
-* [Try Out Development Containers: Ruby](https://github.com/devcontainers/images/tree/main/src/ruby) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Ruby sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
+* [Try Out Development Containers: Ruby](https://github.com/devcontainers/images/tree/main/src/ruby) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Ruby sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Rust
 
-* [Rust image](https://github.com/devcontainers/images/tree/main/src/rust) ⭐ 2,109 | 🐛 98 | 🌐 Shell | 📅 2026-08-14 - Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running (maintained by Microsoft).
+* [Rust image](https://github.com/devcontainers/images/tree/main/src/rust) ⭐ 2,111 | 🐛 99 | 🌐 Shell | 📅 2026-08-14 - Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running (maintained by Microsoft).
 * [Try Out Development Containers: Rust](https://github.com/microsoft/vscode-remote-try-rust) ⭐ 334 | 🐛 6 | 🌐 Rust | 📅 2024-04-12 - Rust sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Misc
@@ -141,4 +141,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
