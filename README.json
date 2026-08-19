@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T11:48:09Z",
+            "last_commit": "2026-08-19T13:32:32Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -580,7 +580,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:24:08.888Z",
+    "last_updated": "2026-08-19T13:33:05.758Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_id": 445118741,
     "original_repository_sha": "62b75620c3f81dcfed0982fb9fbb5a5932c29857",
