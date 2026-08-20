@@ -27,7 +27,7 @@
             "archived": false,
             "id": 609615063,
             "language": "Rust",
-            "last_commit": "2026-08-18T19:11:45Z",
+            "last_commit": "2026-08-20T08:57:06Z",
             "owner": "michidk",
             "repo": "vscli",
             "stars": 458
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T13:32:32Z",
+            "last_commit": "2026-08-20T10:18:17Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 1214061724,
             "language": "Go",
-            "last_commit": "2026-08-19T06:19:50Z",
+            "last_commit": "2026-08-20T01:36:10Z",
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 54
+            "stars": 55
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 1246767321,
             "language": "Shell",
-            "last_commit": "2026-08-17T06:10:16Z",
+            "last_commit": "2026-08-19T17:14:20Z",
             "owner": "stefanoginella",
             "repo": "aicontainer",
             "stars": 18
@@ -125,6 +125,21 @@
         },
         {
           "node_type": "item",
+          "title": "devcontainer-devops",
+          "description": "A DevOps and Infrastructure-as-Code dev container (Terraform, Terragrunt, Azure CLI, Ansible, Kubernetes, PowerShell, .NET) with a command that opens several repositories as roots of one multi-root workspace in a single container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1321765450,
+            "language": "Shell",
+            "last_commit": "2026-08-16T07:48:36Z",
+            "owner": "dbhq-uk",
+            "repo": "devcontainer-devops",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
           "title": "decolint",
           "description": "A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.",
           "children": [],
@@ -132,7 +147,7 @@
             "archived": false,
             "id": 1297858548,
             "language": "Go",
-            "last_commit": "2026-08-17T15:06:11Z",
+            "last_commit": "2026-08-20T11:09:21Z",
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1
@@ -158,7 +173,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -195,7 +210,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -247,7 +262,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -284,7 +299,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -321,7 +336,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -336,7 +351,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -373,7 +388,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -410,7 +425,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -552,7 +567,7 @@
                 "last_commit": "2026-08-14T08:33:31Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2110
               }
             },
             {
@@ -580,10 +595,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:33:05.758Z",
+    "last_updated": "2026-08-20T13:35:09.316Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_id": 445118741,
-    "original_repository_sha": "62b75620c3f81dcfed0982fb9fbb5a5932c29857",
+    "original_repository_sha": "017663472b33ade6fb73070592ea39c94f8522d4",
     "enhanced_repository": "enhansome/enhansome-devcontainers",
     "enhanced_repository_description": null,
     "title": "Awesome Dev Containers with stars"
