@@ -15,7 +15,7 @@
             "last_commit": "2026-06-01T11:34:12Z",
             "owner": "devcontainers",
             "repo": "ci",
-            "stars": 492
+            "stars": 493
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 609615063,
             "language": "Rust",
-            "last_commit": "2026-08-20T13:57:41Z",
+            "last_commit": "2026-08-21T23:09:41Z",
             "owner": "michidk",
             "repo": "vscli",
             "stars": 458
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T11:46:20Z",
+            "last_commit": "2026-08-22T11:56:55Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 1214061724,
             "language": "Go",
-            "last_commit": "2026-08-21T06:00:27Z",
+            "last_commit": "2026-08-22T08:36:01Z",
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 56
+            "stars": 58
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 1297858548,
             "language": "Go",
-            "last_commit": "2026-08-21T05:32:27Z",
+            "last_commit": "2026-08-22T12:37:01Z",
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:33:50.996Z",
+    "last_updated": "2026-08-22T13:20:46.623Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_id": 445118741,
     "original_repository_sha": "017663472b33ade6fb73070592ea39c94f8522d4",
