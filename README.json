@@ -27,7 +27,7 @@
             "archived": false,
             "id": 609615063,
             "language": "Rust",
-            "last_commit": "2026-08-21T23:09:41Z",
+            "last_commit": "2026-08-23T06:32:18Z",
             "owner": "michidk",
             "repo": "vscli",
             "stars": 458
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T11:56:55Z",
+            "last_commit": "2026-08-23T09:04:11Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 1214061724,
             "language": "Go",
-            "last_commit": "2026-08-22T08:36:01Z",
+            "last_commit": "2026-08-23T09:09:27Z",
             "owner": "devsy-org",
             "repo": "devsy",
             "stars": 58
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 1321765450,
             "language": "Shell",
-            "last_commit": "2026-08-16T07:48:36Z",
+            "last_commit": "2026-08-23T04:01:21Z",
             "owner": "dbhq-uk",
             "repo": "devcontainer-devops",
             "stars": 2
@@ -173,7 +173,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -210,7 +210,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -299,7 +299,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -336,7 +336,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -388,7 +388,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -425,7 +425,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -567,7 +567,7 @@
                 "last_commit": "2026-08-20T15:15:04Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2111
+                "stars": 2112
               }
             },
             {
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:20:46.623Z",
+    "last_updated": "2026-08-23T13:21:31.749Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_id": 445118741,
     "original_repository_sha": "017663472b33ade6fb73070592ea39c94f8522d4",
