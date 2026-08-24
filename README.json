@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T09:04:11Z",
+            "last_commit": "2026-08-24T10:52:39Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 1214061724,
             "language": "Go",
-            "last_commit": "2026-08-23T09:09:27Z",
+            "last_commit": "2026-08-24T05:12:39Z",
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 58
+            "stars": 60
           }
         },
         {
@@ -87,7 +87,7 @@
             "archived": false,
             "id": 1246767321,
             "language": "Shell",
-            "last_commit": "2026-08-19T17:14:20Z",
+            "last_commit": "2026-08-24T13:21:59Z",
             "owner": "stefanoginella",
             "repo": "aicontainer",
             "stars": 19
@@ -366,7 +366,7 @@
                 "last_commit": "2026-07-30T16:31:29Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-node",
-                "stars": 830
+                "stars": 831
               }
             }
           ],
@@ -595,7 +595,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:21:31.749Z",
+    "last_updated": "2026-08-24T13:38:37.262Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_id": 445118741,
     "original_repository_sha": "017663472b33ade6fb73070592ea39c94f8522d4",
