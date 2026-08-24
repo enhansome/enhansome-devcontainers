@@ -557,6 +557,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Try Out Development Containers: Ruby",
+              "description": "Ruby sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 490311232,
+                "language": "Shell",
+                "last_commit": "2026-08-20T15:15:04Z",
+                "owner": "devcontainers",
+                "repo": "images",
+                "stars": 2112
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Ruby"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Rust image",
               "description": "Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running (maintained by Microsoft).",
               "children": [],
@@ -589,13 +611,35 @@
           "description": null,
           "node_type": "group",
           "title": "Rust"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ROS dev container for VS Code",
+              "description": "A preconfigured docker image for ROS (Robot Operating System) development. Preconfigured code completion for C++, Python, XML (package.xml, launchfiles, URDF, SDF). Preconfigured simulation environments (Flatland, TurtleBot3, ARIAC, Virtual RobotX, UUV).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189168242,
+                "language": "Dockerfile",
+                "last_commit": "2024-06-30T13:16:55Z",
+                "owner": "devrt",
+                "repo": "ros-devcontainer-vscode",
+                "stars": 203
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
       "title": "Samples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:38:37.262Z",
+    "last_updated": "2026-08-24T14:24:26.836Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_id": 445118741,
     "original_repository_sha": "017663472b33ade6fb73070592ea39c94f8522d4",

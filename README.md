@@ -83,39 +83,39 @@
 
 ### C/C++
 
-* [C++ image](https://github.com/devcontainers/images/tree/main/src/cpp) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop C++ applications on Linux. Includes Debian C++ build tools (maintained by Microsoft).
+* [C++ image](https://github.com/devcontainers/images/tree/main/src/cpp) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop C++ applications on Linux. Includes Debian C++ build tools (maintained by Microsoft).
 * [Try Out Development Containers: C++](https://github.com/microsoft/vscode-remote-try-cpp) ⭐ 207 | 🐛 15 | 🌐 Shell | 📅 2024-07-16 - C++ sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Go
 
-* [Go image](https://github.com/devcontainers/images/tree/main/src/go) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies (maintained by Microsoft).
+* [Go image](https://github.com/devcontainers/images/tree/main/src/go) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop Go based applications. Includes appropriate runtime args, Go, common tools, extensions, and dependencies (maintained by Microsoft).
 * [Try Out Development Containers: Go](https://github.com/microsoft/vscode-remote-try-go) ⭐ 345 | 🐛 11 | 🌐 Go | 📅 2024-07-22 - Go sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 * [Go Dev Container](https://github.com/qdm12/godevcontainer) ⭐ 287 | 🐛 7 | 🌐 Dockerfile | 📅 2026-04-21 - Ultimate Go development container for Visual Studio Code.
 
 ### Java
 
-* [Java image](https://github.com/devcontainers/images/tree/main/src/java) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop Java applications. Includes the JDK and Java extensions (maintained by Microsoft).
+* [Java image](https://github.com/devcontainers/images/tree/main/src/java) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop Java applications. Includes the JDK and Java extensions (maintained by Microsoft).
 * [Try Out Development Containers: Java](https://github.com/microsoft/vscode-remote-try-java) ⭐ 427 | 🐛 23 | 🌐 Java | 📅 2024-08-20 - Java sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### .NET
 
-* [.NET image](https://github.com/devcontainers/images/tree/main/src/dotnet) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies (maintained by Microsoft).
+* [.NET image](https://github.com/devcontainers/images/tree/main/src/dotnet) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop C# and .NET based applications. Includes all needed SDKs, extensions, and dependencies (maintained by Microsoft).
 * [Try Out Development Containers: .NET Core](https://github.com/microsoft/vscode-remote-try-dotnetcore) ⭐ 278 | 🐛 10 | 🌐 C# | 📅 2024-06-12 - .NET Core sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Node.js
 
-* [Node.js image w/ JavaScript](https://github.com/devcontainers/images/tree/main/src/javascript-node) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn (maintained by Microsoft).
-* [Node.js image w/ TypeScript](https://github.com/devcontainers/images/tree/main/src/typescript-node) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler (maintained by Microsoft).
+* [Node.js image w/ JavaScript](https://github.com/devcontainers/images/tree/main/src/javascript-node) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn (maintained by Microsoft).
+* [Node.js image w/ TypeScript](https://github.com/devcontainers/images/tree/main/src/typescript-node) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler (maintained by Microsoft).
 * [Try Out Development Containers: Node.js](https://github.com/microsoft/vscode-remote-try-node) ⭐ 831 | 🐛 28 | 🌐 JavaScript | 📅 2026-07-30 - Node.js sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### PHP
 
-* [PHP image](https://github.com/devcontainers/images/tree/main/src/php) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop PHP based applications. Includes needed tools, extensions, and dependencies (maintained by Microsoft).
+* [PHP image](https://github.com/devcontainers/images/tree/main/src/php) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop PHP based applications. Includes needed tools, extensions, and dependencies (maintained by Microsoft).
 * [Try Out Development Containers: PHP](https://github.com/microsoft/vscode-remote-try-php) ⭐ 247 | 🐛 17 | 🌐 PHP | 📅 2024-06-24 - PHP sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Python
 
-* [Python image](https://github.com/devcontainers/images/tree/main/src/python) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop Python 3 applications (maintained by Microsoft).
+* [Python image](https://github.com/devcontainers/images/tree/main/src/python) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop Python 3 applications (maintained by Microsoft).
 * [Try Out Development Containers: Python](https://github.com/microsoft/vscode-remote-try-python) ⭐ 935 | 🐛 83 | 🌐 Python | 📅 2024-08-08 - Python sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 * [Python Project Template](https://github.com/pamelafox/python-project-template) ⭐ 150 | 🐛 3 | 🌐 Python | 📅 2026-07-24: A Dev Container with support for black, isort, ruff, pre-commit, pytest
 * [PostgreSQL playground](https://github.com/pamelafox/postgresql-playground) ⭐ 37 | 🐛 4 | 🌐 Python | 📅 2025-07-21: Similar to the SQLite playground, but includes local PostgreSQL setup in Dev Container
@@ -127,11 +127,11 @@
 
 ### Ruby
 
-* [Try Out Development Containers: Ruby](https://github.com/devcontainers/images/tree/main/src/ruby) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Ruby sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
+* [Try Out Development Containers: Ruby](https://github.com/devcontainers/images/tree/main/src/ruby) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Ruby sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Rust
 
-* [Rust image](https://github.com/devcontainers/images/tree/main/src/rust) ⭐ 2,112 | 🐛 100 | 🌐 Shell | 📅 2026-08-20 - Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running (maintained by Microsoft).
+* [Rust image](https://github.com/devcontainers/images/tree/main/src/rust) ⭐ 2,112 | 🐛 101 | 🌐 Shell | 📅 2026-08-20 - Develop Rust based applications. Includes appropriate runtime args and everything you need to get up and running (maintained by Microsoft).
 * [Try Out Development Containers: Rust](https://github.com/microsoft/vscode-remote-try-rust) ⭐ 335 | 🐛 6 | 🌐 Rust | 📅 2024-04-12 - Rust sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### Misc
