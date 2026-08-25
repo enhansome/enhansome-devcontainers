@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T06:04:57Z",
+            "last_commit": "2026-08-25T12:47:03Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -259,7 +259,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -296,7 +296,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -333,7 +333,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -385,7 +385,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -422,7 +422,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -564,7 +564,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -586,7 +586,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T05:21:58Z",
+                "last_commit": "2026-08-25T13:15:15Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:36.620Z",
+    "last_updated": "2026-08-25T13:37:25.571Z",
     "original_repository": "manekinekko/awesome-devcontainers",
     "original_repository_id": 445118741,
     "original_repository_sha": "017663472b33ade6fb73070592ea39c94f8522d4",
