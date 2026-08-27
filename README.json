@@ -27,7 +27,7 @@
             "archived": false,
             "id": 609615063,
             "language": "Rust",
-            "last_commit": "2026-08-26T19:17:37Z",
+            "last_commit": "2026-08-27T20:45:54Z",
             "owner": "michidk",
             "repo": "vscli",
             "stars": 459
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:09:43Z",
+            "last_commit": "2026-08-27T22:35:58Z",
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 1214061724,
             "language": "Go",
-            "last_commit": "2026-08-27T05:46:19Z",
+            "last_commit": "2026-08-27T17:03:34Z",
             "owner": "devsy-org",
             "repo": "devsy",
             "stars": 65
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 1297858548,
             "language": "Go",
-            "last_commit": "2026-08-27T06:42:23Z",
+            "last_commit": "2026-08-27T15:46:53Z",
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -259,7 +259,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -296,7 +296,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -333,7 +333,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -385,7 +385,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -403,7 +403,7 @@
                 "last_commit": "2024-06-24T18:34:54Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-php",
-                "stars": 247
+                "stars": 249
               }
             }
           ],
@@ -422,7 +422,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -564,7 +564,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -586,7 +586,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-27T11:25:50Z",
+                "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -639,7 +639,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:12.986Z",
+    "last_updated": "2026-08-27T22:38:00.868Z",
     "original_repository_info": {
       "archived": false,
       "id": 445118741,
