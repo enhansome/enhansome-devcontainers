@@ -27,7 +27,7 @@
             "archived": false,
             "id": 609615063,
             "language": "Rust",
-            "last_commit": "2026-08-25T20:31:58Z",
+            "last_commit": "2026-08-26T19:17:37Z",
             "owner": "michidk",
             "repo": "vscli",
             "stars": 459
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:14:52Z",
+            "last_commit": "2026-08-27T11:09:43Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 1214061724,
             "language": "Go",
-            "last_commit": "2026-08-26T12:43:17Z",
+            "last_commit": "2026-08-27T05:46:19Z",
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T18:46:39Z",
             "owner": "stefanoginella",
             "repo": "aicontainer",
-            "stars": 19
+            "stars": 20
           }
         },
         {
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 1297858548,
             "language": "Go",
-            "last_commit": "2026-08-25T23:54:45Z",
+            "last_commit": "2026-08-27T06:42:23Z",
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1
@@ -170,7 +170,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -188,7 +188,7 @@
                 "last_commit": "2024-07-16T23:17:22Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-cpp",
-                "stars": 207
+                "stars": 206
               }
             }
           ],
@@ -207,7 +207,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -225,7 +225,7 @@
                 "last_commit": "2024-07-22T20:38:53Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-go",
-                "stars": 345
+                "stars": 344
               }
             },
             {
@@ -259,7 +259,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -277,7 +277,7 @@
                 "last_commit": "2024-08-20T07:51:03Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-java",
-                "stars": 428
+                "stars": 427
               }
             }
           ],
@@ -296,7 +296,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -314,7 +314,7 @@
                 "last_commit": "2024-06-12T18:09:32Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-dotnet",
-                "stars": 278
+                "stars": 277
               }
             }
           ],
@@ -333,7 +333,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -366,7 +366,7 @@
                 "last_commit": "2026-07-30T16:31:29Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-node",
-                "stars": 831
+                "stars": 830
               }
             }
           ],
@@ -385,7 +385,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -422,7 +422,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -440,7 +440,7 @@
                 "last_commit": "2024-08-08T06:09:40Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-python",
-                "stars": 936
+                "stars": 934
               }
             },
             {
@@ -564,7 +564,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -586,7 +586,7 @@
                 "archived": false,
                 "id": 490311232,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:34:12Z",
+                "last_commit": "2026-08-27T11:25:50Z",
                 "owner": "devcontainers",
                 "repo": "images",
                 "stars": 2112
@@ -604,7 +604,7 @@
                 "last_commit": "2024-04-12T07:36:35Z",
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-rust",
-                "stars": 335
+                "stars": 334
               }
             }
           ],
@@ -639,9 +639,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:41:34.502Z",
-    "original_repository": "manekinekko/awesome-devcontainers",
-    "original_repository_id": 445118741,
+    "last_updated": "2026-08-27T11:34:12.986Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 445118741,
+      "language": null,
+      "last_commit": "2026-08-20T09:18:36Z",
+      "owner": "manekinekko",
+      "repo": "awesome-devcontainers",
+      "stars": 511
+    },
     "original_repository_sha": "017663472b33ade6fb73070592ea39c94f8522d4",
     "enhanced_repository": "enhansome/enhansome-devcontainers",
     "enhanced_repository_description": null,
