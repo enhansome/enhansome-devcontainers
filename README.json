@@ -16,7 +16,8 @@
             "owner": "devcontainers",
             "repo": "ci",
             "stars": 493
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "michidk",
             "repo": "vscli",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T22:35:58Z",
+            "last_commit": "2026-08-28T20:37:47Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 1214061724,
             "language": "Go",
-            "last_commit": "2026-08-27T17:03:34Z",
+            "last_commit": "2026-08-28T20:51:37Z",
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 65
-          }
+            "stars": 66
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "stuartleeks",
             "repo": "devcontainer-cli",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "stefanoginella",
             "repo": "aicontainer",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "CodeMan99",
             "repo": "tyedev",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "AlexShchuka",
             "repo": "mirabilis",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "dbhq-uk",
             "repo": "devcontainer-devops",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 1297858548,
             "language": "Go",
-            "last_commit": "2026-08-27T15:46:53Z",
+            "last_commit": "2026-08-28T03:55:48Z",
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:43:41.367Z"
         }
       ],
       "title": "Tools"
@@ -173,8 +183,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-cpp",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -210,8 +222,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -226,7 +239,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-go",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -241,7 +255,8 @@
                 "owner": "qdm12",
                 "repo": "godevcontainer",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -262,8 +277,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-java",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -299,8 +316,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -315,7 +333,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-dotnet",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -336,8 +355,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -351,8 +371,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -367,7 +388,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-node",
                 "stars": 830
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -388,8 +410,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -404,7 +427,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-php",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -425,8 +449,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -441,7 +466,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-python",
                 "stars": 934
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -456,7 +482,8 @@
                 "owner": "pamelafox",
                 "repo": "python-project-template",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -471,7 +498,8 @@
                 "owner": "pamelafox",
                 "repo": "postgresql-playground",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -486,7 +514,8 @@
                 "owner": "pamelafox",
                 "repo": "pgvector-playground",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -501,7 +530,8 @@
                 "owner": "pamelafox",
                 "repo": "python-3.11-playground",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -516,7 +546,8 @@
                 "owner": "pamelafox",
                 "repo": "sqlalchemy-sqlite-playground",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "pamelafox",
                 "repo": "python-3.10-playground",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -546,7 +578,8 @@
                 "owner": "pamelafox",
                 "repo": "python-3.12-playground",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -567,8 +600,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -589,8 +623,9 @@
                 "last_commit": "2026-08-27T11:57:34Z",
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2112
-              }
+                "stars": 2114
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             },
             {
               "node_type": "item",
@@ -605,7 +640,8 @@
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-rust",
                 "stars": 334
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -627,7 +663,8 @@
                 "owner": "devrt",
                 "repo": "ros-devcontainer-vscode",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T22:43:41.367Z"
             }
           ],
           "description": null,
@@ -639,7 +676,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:38:00.868Z",
+    "last_updated": "2026-08-28T22:43:41.367Z",
     "original_repository_info": {
       "archived": false,
       "id": 445118741,
