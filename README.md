@@ -37,15 +37,15 @@
 ## Tools
 
 * [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 494 | 🐛 76 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
-* [vscli](https://github.com/michidk/vscli) ⭐ 459 | 🐛 5 | 🌐 Rust | 📅 2026-09-05 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 132 | 🐛 115 | 🌐 TypeScript | 📅 2026-09-05 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
-* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 75 | 🐛 21 | 🌐 Go | 📅 2026-09-05 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
+* [vscli](https://github.com/michidk/vscli) ⭐ 459 | 🐛 6 | 🌐 Rust | 📅 2026-09-05 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 132 | 🐛 137 | 🌐 TypeScript | 📅 2026-09-06 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 76 | 🐛 21 | 🌐 Go | 📅 2026-09-05 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
 * [Unofficial devcontainer CLI](https://github.com/stuartleeks/devcontainer-cli) ⭐ 53 | 🐛 13 | 🌐 Go | 📅 2026-02-06 - An experimental CLI to improve the experience of working with Visual Studio Code dev containers.
 * [aicontainer](https://github.com/stefanoginella/aicontainer) ⭐ 20 | 🐛 3 | 🌐 Shell | 📅 2026-09-05 - A CLI that drops a sandboxed dev container into any project for running AI coding agents (Claude Code, Codex) in auto-approve mode, with filesystem isolation, a filtered Docker socket, and an opt-in outbound firewall.
 * [tyedev](https://github.com/CodeMan99/tyedev) ⭐ 17 | 🐛 4 | 🌐 Rust | 📅 2026-09-03 - Improve Devcontainer Creation - An interactive experience for the creation of a devcontainer. Provides ability to search for [features](https://containers.dev/features) and [templates](https://containers.dev/templates). And more!
 * [mirabilis](https://github.com/AlexShchuka/mirabilis) ⭐ 5 | 🐛 3 | 🌐 Go | 📅 2026-09-01 - One-command launcher that runs Claude Code fully autonomously in an isolated Docker dev container — cross-platform (macOS/Linux/WSL2), with a terminal UI and persistent agent memory.
-* [devcontainer-devops](https://github.com/dbhq-uk/devcontainer-devops) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-08-30 - A DevOps and Infrastructure-as-Code dev container (Terraform, Terragrunt, Azure CLI, Ansible, Kubernetes, PowerShell, .NET) with a `ws` command that opens several repositories as roots of one multi-root workspace in a single container.
-* [decolint](https://github.com/bare-devcontainer/decolint) ⭐ 1 | 🐛 3 | 🌐 Go | 📅 2026-09-05 - A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.
+* [devcontainer-devops](https://github.com/dbhq-uk/devcontainer-devops) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-09-06 - A DevOps and Infrastructure-as-Code dev container (Terraform, Terragrunt, Azure CLI, Ansible, Kubernetes, PowerShell, .NET) with a `ws` command that opens several repositories as roots of one multi-root workspace in a single container.
+* [decolint](https://github.com/bare-devcontainer/decolint) ⭐ 1 | 🐛 3 | 🌐 Go | 📅 2026-09-06 - A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.
 * [VS Code Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
 * [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
 * [crib](https://fgrehm.github.io/crib) - A lean devcontainer runner that shells out to Docker/Podman. Single binary, no SSH, just `docker exec`, with experimental support for plugins.
@@ -142,4 +142,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
