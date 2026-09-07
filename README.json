@@ -39,7 +39,7 @@
             "id": 609615063,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-05T18:26:16Z",
+            "last_commit": "2026-09-06T17:42:23Z",
             "open_issues": 6,
             "owner": "michidk",
             "repo": "vscli",
@@ -68,8 +68,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T15:26:02Z",
-            "open_issues": 137,
+            "last_commit": "2026-09-07T15:03:24Z",
+            "open_issues": 166,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 132,
@@ -89,11 +89,11 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-05T01:20:11Z",
-            "open_issues": 21,
+            "last_commit": "2026-09-07T17:55:43Z",
+            "open_issues": 25,
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "agent",
               "agentic-ai",
@@ -153,8 +153,8 @@
             "id": 1246767321,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-05T01:50:33Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-07T02:56:15Z",
+            "open_issues": 4,
             "owner": "stefanoginella",
             "repo": "aicontainer",
             "stars": 20,
@@ -318,10 +318,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -370,10 +370,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -450,10 +450,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -502,10 +502,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -554,10 +554,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -578,10 +578,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -605,7 +605,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-node",
-                "stars": 831,
+                "stars": 832,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -630,10 +630,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -682,10 +682,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -889,10 +889,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -920,10 +920,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-03T20:19:28Z",
-                "open_issues": 102,
+                "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2120,
+                "stars": 2122,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -997,7 +997,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T15:49:25.442Z",
+    "last_updated": "2026-09-07T17:57:03.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
