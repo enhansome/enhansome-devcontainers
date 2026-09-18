@@ -39,8 +39,8 @@
             "id": 609615063,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-15T20:37:48Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-17T18:42:25Z",
+            "open_issues": 3,
             "owner": "michidk",
             "repo": "vscli",
             "stars": 459,
@@ -69,10 +69,10 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T12:04:08Z",
-            "open_issues": 197,
+            "open_issues": 201,
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
-            "stars": 195,
+            "stars": 198,
             "topics": [
               "agentic-coding",
               "agentic-workflow",
@@ -99,8 +99,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T14:12:47Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-18T16:02:37Z",
+            "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 137,
@@ -120,11 +120,11 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-17T04:55:38Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-18T16:07:29Z",
+            "open_issues": 9,
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 91,
+            "stars": 92,
             "topics": [
               "agent",
               "agentic-ai",
@@ -184,7 +184,7 @@
             "id": 1246767321,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-15T18:49:26Z",
+            "last_commit": "2026-09-18T01:07:14Z",
             "open_issues": 5,
             "owner": "stefanoginella",
             "repo": "aicontainer",
@@ -311,8 +311,8 @@
             "id": 1297858548,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:58:34Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-18T00:10:03Z",
+            "open_issues": 3,
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1,
@@ -349,10 +349,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -401,10 +401,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -481,10 +481,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -508,7 +508,7 @@
                 "open_issues": 22,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-java",
-                "stars": 427,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -533,10 +533,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -585,10 +585,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -609,10 +609,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -661,10 +661,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -713,10 +713,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -761,7 +761,7 @@
                 "open_issues": 3,
                 "owner": "pamelafox",
                 "repo": "python-project-template",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "codespaces",
                   "devcontainer",
@@ -920,10 +920,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -951,10 +951,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-17T12:22:43Z",
-                "open_issues": 97,
+                "open_issues": 93,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2127,
+                "stars": 2126,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1025,10 +1025,171 @@
         }
       ],
       "title": "Samples"
+    },
+    {
+      "description": "Development environments for AI applications, agents, data science, and model development. Existing devcontainers are listed separately from suggested stacks that need a custom configuration.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Generative AI for Beginners",
+              "description": "Microsoft's devcontainer for learning LLM application development with Python, Jupyter notebooks, model APIs, and course dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "21 Lessons, Get Started Building with Generative AI ",
+                "homepage": null,
+                "id": 655806940,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-09-18T13:48:35Z",
+                "open_issues": 6,
+                "owner": "microsoft",
+                "repo": "generative-ai-for-beginners",
+                "stars": 120015,
+                "topics": [
+                  "ai",
+                  "azure",
+                  "chatgpt",
+                  "dall-e",
+                  "generative-ai",
+                  "generativeai",
+                  "gpt",
+                  "language-model",
+                  "llms",
+                  "microsoft-for-beginners",
+                  "openai",
+                  "prompt-engineering",
+                  "semantic-search",
+                  "transformers"
+                ]
+              },
+              "first_seen": "2026-09-18T16:45:32.511Z"
+            },
+            {
+              "node_type": "item",
+              "title": "PyTorch CPU/CUDA Devcontainers",
+              "description": "PyTorch's CPU and CUDA development configurations for building, debugging, and contributing to PyTorch itself, rather than a lightweight model-training starter. CUDA usage requires compatible NVIDIA hardware, drivers, and the NVIDIA Container Toolkit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+                "homepage": "https://pytorch.org",
+                "id": 65600975,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-09-18T16:45:12Z",
+                "open_issues": 17610,
+                "owner": "pytorch",
+                "repo": "pytorch",
+                "stars": 103083,
+                "topics": [
+                  "autograd",
+                  "deep-learning",
+                  "gpu",
+                  "machine-learning",
+                  "neural-network",
+                  "numpy",
+                  "python",
+                  "tensor"
+                ]
+              },
+              "first_seen": "2026-09-18T16:45:32.511Z"
+            },
+            {
+              "node_type": "item",
+              "title": "AI Agents for Beginners",
+              "description": "Microsoft's agent-development course environment with Python, Node.js, .NET, and notebook support. Includes Microsoft Agent Framework and MCP SDK dependencies for agent and tool-calling examples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "18 Lessons to Get Started Building AI Agents",
+                "homepage": "https://aka.ms/ai-agents-beginners",
+                "id": 895508656,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-09-10T17:41:19Z",
+                "open_issues": 18,
+                "owner": "microsoft",
+                "repo": "ai-agents-for-beginners",
+                "stars": 75082,
+                "topics": [
+                  "agentic-ai",
+                  "agentic-framework",
+                  "agentic-rag",
+                  "ai-agents",
+                  "ai-agents-framework",
+                  "autogen",
+                  "foundry",
+                  "foundry-local",
+                  "generative-ai",
+                  "microsoft-foundry",
+                  "semantic-kernel"
+                ]
+              },
+              "first_seen": "2026-09-18T16:45:32.511Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science with Python and R",
+              "description": "Microsoft's Python, R, and Jupyter development environment for statistics and notebook-based experimentation. The published image is documented as x86-64.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Devcontainer template repository for working on data science projects with Python and R.",
+                "homepage": null,
+                "id": 660372324,
+                "language": null,
+                "license": "MIT",
+                "last_commit": "2023-06-30T18:50:09Z",
+                "open_issues": 3,
+                "owner": "microsoft",
+                "repo": "datascience-py-r",
+                "stars": 43,
+                "topics": []
+              },
+              "first_seen": "2026-09-18T16:45:32.511Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Jupyter Data Science Notebooks",
+              "description": "Community devcontainer template based on Jupyter Docker Stacks, with selectable base images for dataset exploration, preprocessing, visualization, and machine learning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "🚀 Get started with a Jupyter datascience template",
+                "homepage": null,
+                "id": 679071475,
+                "language": "Dockerfile",
+                "license": "MIT",
+                "last_commit": "2023-12-28T18:36:17Z",
+                "open_issues": 3,
+                "owner": "devcontainers-community",
+                "repo": "templates-jupyter-datascience-notebooks",
+                "stars": 21,
+                "topics": [
+                  "datascience",
+                  "devcontainer-template",
+                  "devcontainers",
+                  "jupyter",
+                  "starter-kit",
+                  "templates"
+                ]
+              },
+              "first_seen": "2026-09-18T16:45:32.511Z"
+            }
+          ],
+          "description": "For embeddings, semantic search, and PostgreSQL-backed retrieval-augmented generation (RAG), see the PostgreSQL + pgvector playground in the Python samples.",
+          "node_type": "group",
+          "title": "AI devcontainers"
+        }
+      ],
+      "title": "AI"
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T17:17:35.616Z",
+    "last_updated": "2026-09-18T16:45:32.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
@@ -1036,7 +1197,7 @@
       "id": 445118741,
       "language": "JavaScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-09-16T09:22:19Z",
+      "last_commit": "2026-09-18T14:00:16Z",
       "open_issues": 2,
       "owner": "manekinekko",
       "repo": "awesome-devcontainers",
@@ -1052,7 +1213,7 @@
         "vscode"
       ]
     },
-    "original_repository_sha": "93a22c3a202ccae7dc20ec8a98f0dcd20c894d6a",
+    "original_repository_sha": "8aef7eeb14105674673a6b2ab57789e7ca04c983",
     "enhanced_repository": "enhansome/enhansome-devcontainers",
     "enhanced_repository_description": null,
     "title": "Awesome Dev Containers with stars"
