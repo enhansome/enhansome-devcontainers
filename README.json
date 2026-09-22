@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-01T11:34:12Z",
-            "open_issues": 78,
+            "open_issues": 79,
             "owner": "devcontainers",
             "repo": "ci",
             "stars": 497,
@@ -69,7 +69,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-09-15T12:04:08Z",
-            "open_issues": 172,
+            "open_issues": 176,
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
             "stars": 198,
@@ -99,7 +99,7 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T17:29:05Z",
+            "last_commit": "2026-09-22T16:19:03Z",
             "open_issues": 8,
             "owner": "kubestellar",
             "repo": "console",
@@ -120,11 +120,11 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-21T18:13:35Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-22T10:14:34Z",
+            "open_issues": 15,
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 93,
+            "stars": 98,
             "topics": [
               "agent",
               "agentic-ai",
@@ -352,7 +352,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -404,7 +404,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -484,7 +484,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -536,7 +536,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -588,7 +588,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -612,7 +612,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -664,7 +664,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -716,7 +716,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -923,7 +923,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -954,7 +954,7 @@
                 "open_issues": 95,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2126,
+                "stars": 2127,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1047,7 +1047,7 @@
                 "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "generative-ai-for-beginners",
-                "stars": 120191,
+                "stars": 120289,
                 "topics": [
                   "ai",
                   "azure",
@@ -1079,11 +1079,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T18:19:16Z",
-                "open_issues": 17531,
+                "last_commit": "2026-09-22T17:17:58Z",
+                "open_issues": 17581,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103153,
+                "stars": 103176,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1113,7 +1113,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "ai-agents-for-beginners",
-                "stars": 75322,
+                "stars": 75437,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -1189,7 +1189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:20:09.656Z",
+    "last_updated": "2026-09-22T17:20:21.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
