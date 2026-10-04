@@ -39,7 +39,7 @@
             "id": 609615063,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T16:58:02Z",
+            "last_commit": "2026-10-04T12:05:33Z",
             "open_issues": 3,
             "owner": "michidk",
             "repo": "vscli",
@@ -72,7 +72,7 @@
             "open_issues": 173,
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
-            "stars": 201,
+            "stars": 200,
             "topics": [
               "agentic-coding",
               "agentic-workflow",
@@ -99,11 +99,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T15:57:29Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-04T16:30:47Z",
+            "open_issues": 5,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T22:43:41.367Z"
@@ -120,11 +120,11 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-03T15:17:46Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-04T16:29:34Z",
+            "open_issues": 15,
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "agent",
               "agentic-ai",
@@ -184,7 +184,7 @@
             "id": 1246767321,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-02T02:04:09Z",
+            "last_commit": "2026-10-03T21:12:58Z",
             "open_issues": 5,
             "owner": "stefanoginella",
             "repo": "aicontainer",
@@ -274,7 +274,7 @@
             "id": 1321765450,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-09-27T09:00:49Z",
+            "last_commit": "2026-10-04T09:17:46Z",
             "open_issues": 0,
             "owner": "dbhq-uk",
             "repo": "devcontainer-devops",
@@ -352,7 +352,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -376,7 +376,7 @@
                 "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-cpp",
-                "stars": 206,
+                "stars": 207,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -404,7 +404,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -428,7 +428,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-go",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -484,7 +484,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -508,7 +508,7 @@
                 "open_issues": 22,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-java",
-                "stars": 427,
+                "stars": 428,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -536,7 +536,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -560,7 +560,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-dotnet",
-                "stars": 276,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -588,7 +588,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -612,7 +612,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -636,7 +636,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-node",
-                "stars": 833,
+                "stars": 834,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -664,7 +664,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -688,7 +688,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-php",
-                "stars": 249,
+                "stars": 250,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -716,7 +716,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -740,7 +740,7 @@
                 "open_issues": 83,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-python",
-                "stars": 937,
+                "stars": 939,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -923,7 +923,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -954,7 +954,7 @@
                 "open_issues": 99,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2131,
+                "stars": 2132,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -978,7 +978,7 @@
                 "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-rust",
-                "stars": 337,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -1047,7 +1047,7 @@
                 "open_issues": 12,
                 "owner": "microsoft",
                 "repo": "generative-ai-for-beginners",
-                "stars": 120974,
+                "stars": 120997,
                 "topics": [
                   "ai",
                   "azure",
@@ -1079,11 +1079,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-03T16:00:38Z",
-                "open_issues": 17590,
+                "last_commit": "2026-10-04T16:56:00Z",
+                "open_issues": 17613,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103648,
+                "stars": 103753,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1110,10 +1110,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-19T06:16:49Z",
-                "open_issues": 24,
+                "open_issues": 25,
                 "owner": "microsoft",
                 "repo": "ai-agents-for-beginners",
-                "stars": 76372,
+                "stars": 76419,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -1189,7 +1189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:46:35.228Z",
+    "last_updated": "2026-10-04T17:05:13.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
