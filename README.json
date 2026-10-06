@@ -43,7 +43,7 @@
             "open_issues": 4,
             "owner": "michidk",
             "repo": "vscli",
-            "stars": 459,
+            "stars": 458,
             "topics": [
               "cli",
               "command-line",
@@ -99,7 +99,7 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:42:15Z",
+            "last_commit": "2026-10-06T14:22:42Z",
             "open_issues": 3,
             "owner": "kubestellar",
             "repo": "console",
@@ -120,7 +120,7 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-06T10:42:39Z",
+            "last_commit": "2026-10-06T17:51:34Z",
             "open_issues": 15,
             "owner": "devsy-org",
             "repo": "devsy",
@@ -1047,7 +1047,7 @@
                 "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "generative-ai-for-beginners",
-                "stars": 121068,
+                "stars": 121076,
                 "topics": [
                   "ai",
                   "azure",
@@ -1079,11 +1079,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T11:01:04Z",
-                "open_issues": 17604,
+                "last_commit": "2026-10-06T18:37:52Z",
+                "open_issues": 17612,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 103804,
+                "stars": 103819,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1110,10 +1110,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-09-19T06:16:49Z",
-                "open_issues": 27,
+                "open_issues": 25,
                 "owner": "microsoft",
                 "repo": "ai-agents-for-beginners",
-                "stars": 76525,
+                "stars": 76539,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -1189,7 +1189,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:10:22.023Z",
+    "last_updated": "2026-10-06T18:38:46.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
