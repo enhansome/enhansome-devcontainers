@@ -72,7 +72,7 @@
             "open_issues": 173,
             "owner": "Ivy-Interactive",
             "repo": "Ivy-Tendril",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "agentic-coding",
               "agentic-workflow",
@@ -99,8 +99,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T16:25:42Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-15T14:50:56Z",
+            "open_issues": 9,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 143,
@@ -120,11 +120,11 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-14T17:29:29Z",
+            "last_commit": "2026-10-15T16:28:06Z",
             "open_issues": 21,
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 119,
+            "stars": 120,
             "topics": [
               "agent",
               "agentic-ai",
@@ -184,7 +184,7 @@
             "id": 1193297270,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T06:40:46Z",
+            "last_commit": "2026-10-15T06:26:17Z",
             "open_issues": 35,
             "owner": "mifunedev",
             "repo": "agro",
@@ -353,8 +353,8 @@
             "id": 1297858548,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-13T23:41:53Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-15T15:19:38Z",
+            "open_issues": 3,
             "owner": "bare-devcontainer",
             "repo": "decolint",
             "stars": 1,
@@ -390,11 +390,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -418,7 +418,7 @@
                 "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-cpp",
-                "stars": 207,
+                "stars": 206,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -442,11 +442,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -470,7 +470,7 @@
                 "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-go",
-                "stars": 345,
+                "stars": 344,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -522,11 +522,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -550,7 +550,7 @@
                 "open_issues": 22,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-java",
-                "stars": 431,
+                "stars": 430,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -574,11 +574,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -602,7 +602,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-dotnet",
-                "stars": 278,
+                "stars": 277,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -626,11 +626,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -650,11 +650,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -678,7 +678,7 @@
                 "open_issues": 29,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-node",
-                "stars": 837,
+                "stars": 836,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -702,11 +702,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -730,7 +730,7 @@
                 "open_issues": 17,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-php",
-                "stars": 250,
+                "stars": 249,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -754,11 +754,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -782,7 +782,7 @@
                 "open_issues": 87,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-python",
-                "stars": 941,
+                "stars": 940,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -961,11 +961,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -992,11 +992,11 @@
                 "id": 490311232,
                 "language": "Shell",
                 "license": "MIT",
-                "last_commit": "2026-10-12T09:31:45Z",
-                "open_issues": 105,
+                "last_commit": "2026-10-14T20:02:40Z",
+                "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2138,
+                "stars": 2136,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1020,7 +1020,7 @@
                 "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-rust",
-                "stars": 339,
+                "stars": 338,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -1085,11 +1085,11 @@
                 "id": 655806940,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-12T02:16:31Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-15T03:45:24Z",
+                "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "generative-ai-for-beginners",
-                "stars": 121349,
+                "stars": 121418,
                 "topics": [
                   "ai",
                   "azure",
@@ -1121,11 +1121,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T17:36:56Z",
-                "open_issues": 17696,
+                "last_commit": "2026-10-15T17:22:32Z",
+                "open_issues": 17676,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 104668,
+                "stars": 104697,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1151,11 +1151,11 @@
                 "id": 895508656,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-13T05:57:09Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-15T13:54:58Z",
+                "open_issues": 20,
                 "owner": "microsoft",
                 "repo": "ai-agents-for-beginners",
-                "stars": 77140,
+                "stars": 77221,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -1231,7 +1231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T17:37:59.252Z",
+    "last_updated": "2026-10-15T17:23:47.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
