@@ -39,7 +39,7 @@
             "id": 609615063,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-19T01:55:27Z",
+            "last_commit": "2026-10-20T16:29:19Z",
             "open_issues": 4,
             "owner": "michidk",
             "repo": "vscli",
@@ -99,11 +99,11 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T17:24:57Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-20T17:22:44Z",
+            "open_issues": 13,
             "owner": "kubestellar",
             "repo": "console",
-            "stars": 144,
+            "stars": 146,
             "topics": []
           },
           "first_seen": "2026-08-28T22:43:41.367Z"
@@ -120,11 +120,11 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-19T18:50:55Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-20T17:06:48Z",
+            "open_issues": 38,
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 122,
+            "stars": 123,
             "topics": [
               "agent",
               "agentic-ai",
@@ -184,7 +184,7 @@
             "id": 1193297270,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T17:45:54Z",
+            "last_commit": "2026-10-20T07:05:47Z",
             "open_issues": 40,
             "owner": "mifunedev",
             "repo": "agro",
@@ -226,7 +226,7 @@
             "id": 1246767321,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-19T04:48:48Z",
+            "last_commit": "2026-10-20T09:39:24Z",
             "open_issues": 5,
             "owner": "stefanoginella",
             "repo": "aicontainer",
@@ -394,7 +394,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -446,7 +446,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -526,7 +526,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -578,7 +578,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -630,7 +630,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -654,7 +654,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -706,7 +706,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -758,7 +758,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -782,7 +782,7 @@
                 "open_issues": 87,
                 "owner": "microsoft",
                 "repo": "vscode-remote-try-python",
-                "stars": 939,
+                "stars": 940,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:43:41.367Z"
@@ -965,7 +965,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -996,7 +996,7 @@
                 "open_issues": 100,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2136,
+                "stars": 2137,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1085,11 +1085,11 @@
                 "id": 655806940,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-19T09:10:07Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-20T16:28:04Z",
+                "open_issues": 11,
                 "owner": "microsoft",
                 "repo": "generative-ai-for-beginners",
-                "stars": 121641,
+                "stars": 121704,
                 "topics": [
                   "ai",
                   "azure",
@@ -1121,11 +1121,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T18:49:16Z",
-                "open_issues": 17672,
+                "last_commit": "2026-10-20T17:32:02Z",
+                "open_issues": 17655,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 104915,
+                "stars": 104959,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1151,11 +1151,11 @@
                 "id": 895508656,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-18T00:41:32Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-20T16:38:55Z",
+                "open_issues": 7,
                 "owner": "microsoft",
                 "repo": "ai-agents-for-beginners",
-                "stars": 77467,
+                "stars": 77525,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -1231,7 +1231,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T18:50:59.843Z",
+    "last_updated": "2026-10-20T17:34:12.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
