@@ -40,18 +40,18 @@
 
 ## Tools
 
-* [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 507 | 🐛 78 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
-* [vscli](https://github.com/michidk/vscli) ⭐ 457 | 🐛 3 | 🌐 Rust | 📅 2026-10-28 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
+* [devcontainer-build-run](https://github.com/stuartleeks/devcontainer-build-run) ⭐ 508 | 🐛 78 | 🌐 TypeScript | 📅 2026-06-01 - A GitHub action and Azure DevOps task aimed at making it easier to re-use a Visual Studio Code devcontainer in a GitHub workflow or Azure DevOps pipeline.
+* [vscli](https://github.com/michidk/vscli) ⭐ 457 | 🐛 3 | 🌐 Rust | 📅 2026-10-31 - A CLI/TUI which makes it easy to launch vscode projects from the terminal, with a focus on dev containers. Also supports projects with multiple dev containers.
 * [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) ⭐ 204 | 🐛 173 | 🌐 C# | 📅 2026-09-15 - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 152 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-30 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
-* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 127 | 🐛 39 | 🌐 Go | 📅 2026-10-30 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 152 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-31 - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
+* [Devsy](https://github.com/devsy-org/devsy/) ⭐ 129 | 🐛 34 | 🌐 Go | 📅 2026-10-31 | [devsy.sh](https://devsy.sh/) - Accelerate engineering velocity with Devsy, a workspace management tool for deploying devcontainers on Docker, Kubernetes, cloud providers (e.g., AWS, GCP, Azure, and more), and SSH remote hosts.
 * [Unofficial devcontainer CLI](https://github.com/stuartleeks/devcontainer-cli) ⭐ 54 | 🐛 13 | 🌐 Go | 📅 2026-02-06 - An experimental CLI to improve the experience of working with Visual Studio Code dev containers.
-* [AGRO](https://github.com/mifunedev/agro) ⭐ 42 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-27 - A CLI that creates a durable Docker dev container workspace for AI coding agents on a laptop or remote VM, installs Claude Code, Codex, Pi, OpenCode, and other harnesses on demand, gives parallel agents separate git worktrees, and supports attaching from VS Code Dev Containers.
-* [Flisk](https://github.com/flisk-sh/flisk) ⭐ 28 | 🐛 367 | 🌐 TypeScript | 📅 2026-10-30 - Generate and run your whole tech stack without the setup pain. One command from empty folder to running stack.
+* [AGRO](https://github.com/mifunedev/agro) ⭐ 42 | 🐛 39 | 🌐 TypeScript | 📅 2026-10-31 - A CLI that creates a durable Docker dev container workspace for AI coding agents on a laptop or remote VM, installs Claude Code, Codex, Pi, OpenCode, and other harnesses on demand, gives parallel agents separate git worktrees, and supports attaching from VS Code Dev Containers.
+* [Flisk](https://github.com/flisk-sh/flisk) ⭐ 31 | 🐛 358 | 🌐 TypeScript | 📅 2026-10-31 - Generate and run your whole tech stack without the setup pain. One command from empty folder to running stack.
 * [aicontainer](https://github.com/stefanoginella/aicontainer) ⭐ 21 | 🐛 8 | 🌐 Shell | 📅 2026-10-28 - A CLI that drops a sandboxed dev container into any project for running AI coding agents (Claude Code, Codex) in auto-approve mode, with filesystem isolation, a filtered Docker socket, and an opt-in outbound firewall.
 * [tyedev](https://github.com/CodeMan99/tyedev) ⭐ 17 | 🐛 4 | 🌐 Rust | 📅 2026-10-29 - Improve Devcontainer Creation - An interactive experience for the creation of a devcontainer. Provides ability to search for [features](https://containers.dev/features) and [templates](https://containers.dev/templates). And more!
 * [mirabilis](https://github.com/AlexShchuka/mirabilis) ⭐ 5 | 🐛 3 | 🌐 Go | 📅 2026-09-08 - One-command launcher that runs Claude Code fully autonomously in an isolated Docker dev container — cross-platform (macOS/Linux/WSL2), with a terminal UI and persistent agent memory.
-* [decolint](https://github.com/bare-devcontainer/decolint) ⭐ 2 | 🐛 5 | 🌐 Go | 📅 2026-10-30 - A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.
+* [decolint](https://github.com/bare-devcontainer/decolint) ⭐ 2 | 🐛 3 | 🌐 Go | 📅 2026-10-31 - A linter for Dev Container definitions, Features, and Templates, with checks for correctness, security, and reproducibility.
 * [devcontainer-devops](https://github.com/dbhq-uk/devcontainer-devops) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2026-10-25 - A DevOps and Infrastructure-as-Code dev container (Terraform, Terragrunt, Azure CLI, Ansible, Kubernetes, PowerShell, .NET) with a `ws` command that opens several repositories as roots of one multi-root workspace in a single container.
 * [VS Code Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) - An extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
 * [Pieces](https://pieces.app/) — An on-device copilot that helps you capture, enrich, and reuse code, streamline collaboration, and solve complex problems through a contextual understanding of your workflow.
@@ -104,7 +104,7 @@
 ### Java
 
 * [Java image](https://github.com/devcontainers/images/tree/main/src/java) ⭐ 2,141 | 🐛 104 | 🌐 Shell | 📅 2026-10-29 - Develop Java applications. Includes the JDK and Java extensions (maintained by Microsoft).
-* [Try Out Development Containers: Java](https://github.com/microsoft/vscode-remote-try-java) ⭐ 433 | 🐛 22 | 🌐 Java | 📅 2026-10-29 - Java sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
+* [Try Out Development Containers: Java](https://github.com/microsoft/vscode-remote-try-java) ⭐ 434 | 🐛 22 | 🌐 Java | 📅 2026-10-29 - Java sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### .NET
 
@@ -115,7 +115,7 @@
 
 * [Node.js image w/ JavaScript](https://github.com/devcontainers/images/tree/main/src/javascript-node) ⭐ 2,141 | 🐛 104 | 🌐 Shell | 📅 2026-10-29 - Develop Node.js based applications. Includes Node.js, eslint, nvm, and yarn (maintained by Microsoft).
 * [Node.js image w/ TypeScript](https://github.com/devcontainers/images/tree/main/src/typescript-node) ⭐ 2,141 | 🐛 104 | 🌐 Shell | 📅 2026-10-29 - Develop Node.js based applications in TypeScript. Includes Node.js, eslint, nvm, yarn, and the TypeScript compiler (maintained by Microsoft).
-* [Try Out Development Containers: Node.js](https://github.com/microsoft/vscode-remote-try-node) ⭐ 837 | 🐛 27 | 🌐 JavaScript | 📅 2026-10-20 - Node.js sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
+* [Try Out Development Containers: Node.js](https://github.com/microsoft/vscode-remote-try-node) ⭐ 837 | 🐛 28 | 🌐 JavaScript | 📅 2026-10-31 - Node.js sample project for trying out the VS Code Remote - Containers extension (maintained by Microsoft).
 
 ### PHP
 
@@ -155,9 +155,9 @@ Development environments for AI applications, agents, data science, and model de
 
 ### AI devcontainers
 
-* [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main/.devcontainer) ⭐ 122,489 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Microsoft's devcontainer for learning LLM application development with Python, Jupyter notebooks, model APIs, and course dependencies.
-* [PyTorch CPU/CUDA Devcontainers](https://github.com/pytorch/pytorch/tree/main/.devcontainer) ⭐ 105,021 | 🐛 17,871 | 🌐 Python | 📅 2026-10-30 - PyTorch's CPU and CUDA development configurations for building, debugging, and contributing to PyTorch itself, rather than a lightweight model-training starter. CUDA usage requires compatible NVIDIA hardware, drivers, and the NVIDIA Container Toolkit.
-* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners/tree/main/.devcontainer) ⭐ 78,303 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-10-30 - Microsoft's agent-development course environment with Python, Node.js, .NET, and notebook support. Includes Microsoft Agent Framework and MCP SDK dependencies for agent and tool-calling examples.
+* [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners/tree/main/.devcontainer) ⭐ 122,618 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-10-31 - Microsoft's devcontainer for learning LLM application development with Python, Jupyter notebooks, model APIs, and course dependencies.
+* [PyTorch CPU/CUDA Devcontainers](https://github.com/pytorch/pytorch/tree/main/.devcontainer) ⭐ 105,039 | 🐛 17,835 | 🌐 Python | 📅 2026-10-31 - PyTorch's CPU and CUDA development configurations for building, debugging, and contributing to PyTorch itself, rather than a lightweight model-training starter. CUDA usage requires compatible NVIDIA hardware, drivers, and the NVIDIA Container Toolkit.
+* [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners/tree/main/.devcontainer) ⭐ 78,461 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-31 - Microsoft's agent-development course environment with Python, Node.js, .NET, and notebook support. Includes Microsoft Agent Framework and MCP SDK dependencies for agent and tool-calling examples.
 * [Data Science with Python and R](https://github.com/microsoft/datascience-py-r) ⭐ 43 | 🐛 3 | 📅 2023-06-30 - Microsoft's Python, R, and Jupyter development environment for statistics and notebook-based experimentation. The published image is documented as x86-64.
 * [Jupyter Data Science Notebooks](https://github.com/devcontainers-community/templates-jupyter-datascience-notebooks) ⭐ 21 | 🐛 3 | 🌐 Dockerfile | 📅 2023-12-28 - Community devcontainer template based on Jupyter Docker Stacks, with selectable base images for dataset exploration, preprocessing, visualization, and machine learning.
 
@@ -227,4 +227,4 @@ Only `dist/` is uploaded to Pages.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
