@@ -39,7 +39,7 @@
             "id": 609615063,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-31T15:53:33Z",
+            "last_commit": "2026-11-01T13:54:13Z",
             "open_issues": 3,
             "owner": "michidk",
             "repo": "vscli",
@@ -99,8 +99,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T15:21:51Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-01T05:52:42Z",
+            "open_issues": 40,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 152,
@@ -120,8 +120,8 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-31T17:03:47Z",
-            "open_issues": 34,
+            "last_commit": "2026-11-01T07:55:32Z",
+            "open_issues": 33,
             "owner": "devsy-org",
             "repo": "devsy",
             "stars": 129,
@@ -184,7 +184,7 @@
             "id": 1193297270,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T16:28:27Z",
+            "last_commit": "2026-11-01T02:59:15Z",
             "open_issues": 39,
             "owner": "mifunedev",
             "repo": "agro",
@@ -226,11 +226,11 @@
             "id": 1377087398,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T16:54:38Z",
+            "last_commit": "2026-11-01T18:07:43Z",
             "open_issues": 358,
             "owner": "flisk-sh",
             "repo": "flisk",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "ai-agents",
               "developer-experience",
@@ -387,7 +387,7 @@
             "id": 1321765450,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-25T08:16:56Z",
+            "last_commit": "2026-11-01T10:19:58Z",
             "open_issues": 0,
             "owner": "dbhq-uk",
             "repo": "devcontainer-devops",
@@ -436,7 +436,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -488,7 +488,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -568,7 +568,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -620,7 +620,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -672,7 +672,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -696,7 +696,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -748,7 +748,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -800,7 +800,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1007,7 +1007,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1038,7 +1038,7 @@
                 "open_issues": 104,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2141,
+                "stars": 2142,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1127,11 +1127,11 @@
                 "id": 655806940,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-31T04:53:59Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-01T01:51:43Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "generative-ai-for-beginners",
-                "stars": 122618,
+                "stars": 122738,
                 "topics": [
                   "ai",
                   "azure",
@@ -1163,11 +1163,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-31T17:22:27Z",
-                "open_issues": 17835,
+                "last_commit": "2026-11-01T18:07:18Z",
+                "open_issues": 17842,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 105039,
+                "stars": 105063,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1194,10 +1194,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-10-31T02:58:08Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "microsoft",
                 "repo": "ai-agents-for-beginners",
-                "stars": 78461,
+                "stars": 78605,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -1273,7 +1273,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:22:34.300Z",
+    "last_updated": "2026-11-01T18:08:48.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
@@ -1285,7 +1285,7 @@
       "open_issues": 2,
       "owner": "manekinekko",
       "repo": "awesome-devcontainers",
-      "stars": 519,
+      "stars": 520,
       "topics": [
         "awesome",
         "awesome-list",
