@@ -39,8 +39,8 @@
             "id": 609615063,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-23T05:09:27Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-25T18:00:34Z",
+            "open_issues": 4,
             "owner": "michidk",
             "repo": "vscli",
             "stars": 457,
@@ -99,8 +99,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T05:58:42Z",
-            "open_issues": 103,
+            "last_commit": "2026-11-25T05:58:58Z",
+            "open_issues": 109,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 155,
@@ -120,11 +120,11 @@
             "id": 1214061724,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-11-24T06:11:53Z",
-            "open_issues": 51,
+            "last_commit": "2026-11-25T21:39:05Z",
+            "open_issues": 55,
             "owner": "devsy-org",
             "repo": "devsy",
-            "stars": 142,
+            "stars": 144,
             "topics": [
               "agent",
               "agentic-ai",
@@ -146,38 +146,6 @@
             ]
           },
           "first_seen": "2026-08-28T22:43:41.367Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Flisk",
-          "description": "Generate and run your whole tech stack without the setup pain. One command from empty folder to running stack.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The local runtime your AI coding agent can start, check and fix. One command runs your multi-service app from a Compose file or plain commands, and an MCP server gives Claude Code, Cursor and Codex its health, logs and controls. MIT, no account. https://flisk.sh",
-            "homepage": "https://flisk.sh",
-            "id": 1377087398,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-24T21:56:52Z",
-            "open_issues": 664,
-            "owner": "flisk-sh",
-            "repo": "flisk",
-            "stars": 58,
-            "topics": [
-              "ai-agents",
-              "claude-code",
-              "developer-experience",
-              "developer-tools",
-              "docker-compose",
-              "flisk",
-              "local-development",
-              "mcp",
-              "mcp-server",
-              "tilt"
-            ]
-          },
-          "first_seen": "2026-10-26T18:52:35.292Z"
         },
         {
           "node_type": "item",
@@ -216,8 +184,8 @@
             "id": 1193297270,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T15:30:46Z",
-            "open_issues": 49,
+            "last_commit": "2026-11-25T19:01:21Z",
+            "open_issues": 51,
             "owner": "mifunedev",
             "repo": "agro",
             "stars": 43,
@@ -258,7 +226,7 @@
             "id": 1246767321,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-11-23T01:09:15Z",
+            "last_commit": "2026-11-25T00:35:25Z",
             "open_issues": 5,
             "owner": "stefanoginella",
             "repo": "aicontainer",
@@ -457,7 +425,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -509,7 +477,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -589,7 +557,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -641,7 +609,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -693,7 +661,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -717,7 +685,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -769,7 +737,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -821,7 +789,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1028,7 +996,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1059,7 +1027,7 @@
                 "open_issues": 123,
                 "owner": "devcontainers",
                 "repo": "images",
-                "stars": 2149,
+                "stars": 2150,
                 "topics": [
                   "containers",
                   "devcontainers"
@@ -1152,7 +1120,7 @@
                 "open_issues": 5,
                 "owner": "microsoft",
                 "repo": "generative-ai-for-beginners",
-                "stars": 124123,
+                "stars": 124198,
                 "topics": [
                   "ai",
                   "azure",
@@ -1184,11 +1152,11 @@
                 "id": 65600975,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T22:46:24Z",
-                "open_issues": 18587,
+                "last_commit": "2026-11-25T21:58:55Z",
+                "open_issues": 18584,
                 "owner": "pytorch",
                 "repo": "pytorch",
-                "stars": 105687,
+                "stars": 105748,
                 "topics": [
                   "autograd",
                   "deep-learning",
@@ -1218,7 +1186,7 @@
                 "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "ai-agents-for-beginners",
-                "stars": 80909,
+                "stars": 80971,
                 "topics": [
                   "agentic-ai",
                   "agentic-framework",
@@ -1294,7 +1262,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:47:23.758Z",
+    "last_updated": "2026-11-25T21:59:54.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome tools and resources about dev containers for common programming languages and technology stacks to boost your developer productivity 🚀",
